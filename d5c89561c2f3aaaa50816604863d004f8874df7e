@@ -1,0 +1,7 @@
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Thu, 30 Jul 2015 21:53:13 +0200
+Reviewed-on: https://review.gerrithub.io/241850
+Project: openstack-packages/python-networking-vmware-nsx
+Branch: refs/heads/rpm-master
