@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_311f6eb9",
+        "filename": "python-networking-vmware-nsx.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1003214
+      },
+      "writtenOn": "2015-08-20T09:29:09Z",
+      "side": 1,
+      "message": "Is this needed?",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 38
+      },
+      "revId": "4c8d5c94314a20edcde858bc618a35402b3291d8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
