@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Javier Peña <jpena@redhat.com>
+Submitted-by: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-at: Mon, 24 Aug 2015 16:18:52 +0200
+Reviewed-on: https://review.gerrithub.io/243606
+Project: openstack-packages/python-networking-vmware-nsx
+Branch: refs/heads/rpm-kilo
