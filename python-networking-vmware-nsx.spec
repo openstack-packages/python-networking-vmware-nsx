@@ -49,6 +49,16 @@ Requires:	python-tooz
 This package contains %{drv_vendor} networking driver for OpenStack Neutron.
 
 
+%package doc
+Summary:        %{summary} documentation
+Requires:       %{name} = %{version}-%{release}
+
+
+%description doc
+This package contains documentation for %{drv_vendor} networking driver for
+OpenStack Neutron.
+
+
 %prep
 %setup -q -n %{srcname}-%{upstream_version}
 
@@ -73,6 +83,11 @@ export SKIP_PIP_INSTALL=1
 %{_bindir}/neutron-check-nsx-config
 %{python2_sitelib}/vmware_nsx
 %{python2_sitelib}/vmware_nsx-%{version}-py%{python2_version}.egg-info
+
+
+%files doc
+%license LICENSE
+%doc %{docpath}
 
 
 %changelog
