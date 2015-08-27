@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_2e4a8e27",
+        "filename": "python-networking-vmware-nsx.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2015-08-27T14:50:49Z",
+      "side": 1,
+      "message": "If we are moving docs to a separate subpackage, this should be removed I think.",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 15
+      },
+      "revId": "cea684593c01450fbbbb9bbfe9bd64c980213389",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
