@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_459fc75f",
+        "filename": "python-networking-vmware-nsx.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1003214
+      },
+      "writtenOn": "2015-09-11T14:28:16Z",
+      "side": 1,
+      "message": "Is this section executed also on update? May it happen to fail due to overwriting the former files? i.e. should we use \u0027mv -f\u0027 ?",
+      "revId": "8075125a2e443aff84212c6aa1c6a3e0b4579759",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
