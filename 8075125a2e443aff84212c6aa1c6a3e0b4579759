@@ -34,6 +34,24 @@
       "revId": "8075125a2e443aff84212c6aa1c6a3e0b4579759",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae5cdf2_057cdf1f",
+        "filename": "python-networking-vmware-nsx.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1003214
+      },
+      "writtenOn": "2015-09-11T14:33:14Z",
+      "side": 1,
+      "message": "*facepalm* Thanks :)",
+      "parentUuid": "1ae5cdf2_a58deb33",
+      "revId": "8075125a2e443aff84212c6aa1c6a3e0b4579759",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
