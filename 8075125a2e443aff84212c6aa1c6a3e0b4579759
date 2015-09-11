@@ -16,6 +16,24 @@
       "revId": "8075125a2e443aff84212c6aa1c6a3e0b4579759",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae5cdf2_a58deb33",
+        "filename": "python-networking-vmware-nsx.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1003190
+      },
+      "writtenOn": "2015-09-11T14:29:51Z",
+      "side": 1,
+      "message": "This section is executed build time to form the package.",
+      "parentUuid": "1ae5cdf2_459fc75f",
+      "revId": "8075125a2e443aff84212c6aa1c6a3e0b4579759",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
