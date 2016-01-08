@@ -1,0 +1,7 @@
+Code-Review+2: Jakub Libosvar <jakub.libosvar@gmail.com>
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Submitted-by: Jakub Libosvar <jakub.libosvar@gmail.com>
+Submitted-at: Fri, 08 Jan 2016 10:29:09 +0100
+Reviewed-on: https://review.gerrithub.io/258841
+Project: openstack-packages/python-networking-vmware-nsx
+Branch: refs/heads/rpm-liberty
