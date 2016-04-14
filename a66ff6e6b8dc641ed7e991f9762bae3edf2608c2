@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_d730f058",
+        "filename": "python-networking-vmware-nsx.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1003190
+      },
+      "writtenOn": "2016-04-14T10:07:07Z",
+      "side": 1,
+      "message": "I suspect a single line would suffice, but ok.",
+      "revId": "a66ff6e6b8dc641ed7e991f9762bae3edf2608c2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
