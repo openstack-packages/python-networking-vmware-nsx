@@ -16,6 +16,24 @@
       "revId": "a66ff6e6b8dc641ed7e991f9762bae3edf2608c2",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_d77eb0e3",
+        "filename": "python-networking-vmware-nsx.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1003941
+      },
+      "writtenOn": "2016-04-14T10:17:27Z",
+      "side": 1,
+      "message": "I thought you needed them all, but you\u0027re right, the last one is enough. I\u0027ll fix that.",
+      "parentUuid": "baa041b7_d730f058",
+      "revId": "a66ff6e6b8dc641ed7e991f9762bae3edf2608c2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
