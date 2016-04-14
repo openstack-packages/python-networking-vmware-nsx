@@ -99,3 +99,4 @@ chmod 640 %{buildroot}%{_sysconfdir}/%{service}/plugins/*/*.ini
 
 
 %changelog
+# REMOVEME: error caused by commit 
